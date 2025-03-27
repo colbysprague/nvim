@@ -30,8 +30,3 @@ vim.api.nvim_set_keymap('v', '<Up>', '<Nop>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('v', '<Down>', '<Nop>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('v', '<Left>', '<Nop>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('v', '<Right>', '<Nop>', { noremap = true, silent = true })
-
-vim.api.nvim_set_keymap('V', '<Up>', '<Nop>', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('V', '<Down>', '<Nop>', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('V', '<Left>', '<Nop>', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('V', '<Right>', '<Nop>', { noremap = true, silent = true })
